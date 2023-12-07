@@ -39,7 +39,6 @@ function drawPattern(size, symbol) {
     pattern += border.repeat(size);
     pattern += "\n";
   }
-
   return pattern;
 }*/
 
